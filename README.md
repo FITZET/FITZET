@@ -6,7 +6,7 @@
 
 <!-- 打字动画 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=类脑计算%EF%BC%8C存内计算%EF%BC%8C神经形态计算；AI加速器%EF%BC%8C硬件优化！" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Neuromorphic Computing%EF%BC%8CComputing in Memory%EF%BC%8CAI Accelerator！" />
 </p>
 
 <!-- GitHub 状态图 + 连续贡献图 -->
