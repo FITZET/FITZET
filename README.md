@@ -1,7 +1,7 @@
 
 <!-- 欢迎横幅 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there!%20I'm%20Zixuan%20Shen&fontSize=60&fontAlign=50&fontAlignY=40&desc=Researcher%20in%20Neuromorphic%20Computing%20%26%20AI%20Accelerator&descAlign=50&descSize=25&descAlignY=65&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there!%20I'm%20Zixuan%20Shen&fontSize=60&fontAlign=50&fontAlignY=40" />
 </p>
 
 <!-- 打字动画 -->
